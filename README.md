@@ -42,8 +42,8 @@ Ending module. endmodule is a keywords defined in Verilog.
 ## Program:
 ~~~
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: RAJESHKANNAN.M
-RegisterNumber:  212221230081
+Developed by: S Dhanush Praboo
+RegisterNumber:  212221230019
 ~~~
 ## Half Subtractor
 ~~~
